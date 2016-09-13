@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Tscore</string>
+    <!--  contains layout featuring strings only -->
+
+    <string name="description">This section contains information about the Staff members and you need to help us understand the
+          management in a better way.Do Score the Staff members so that we can provide you the best staff possible.This counts your professional experiences
+          of encounters with them and their service to you.Kindly consider all possibilities and grade the down.
+    Thank You </string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="signup">signup</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <!-- New Strings to be used as questions in the layout of teacher questionnaire -->
+    <string name="m1">Yogitha Maam(Gorai)</string>
+    <string name="m2">Neha Apte </string>
+    <string name="m3">Neha Lad</string>
+    <string name="m4">Ruchi </string>
+    <string name="m5">Neelam</string>
+    <string name="m6">Bhumika</string>
+    <!-- contains the questions to be asked to the teacher staff guys -->
+    <string name="q1">Syllabus Covered</string>
+    <string name="q2">Punctuality </string>
+    <string name="q3">Subject Knowledge</string>
+    <string name="q4">Teaching Methods</string>
+    <string name="q5">Doubt Discussion</string>
+    <string name="q6">Connectivity</string>
+    <string name="q7">Punctual nature</string>
+    <string name="q8">Problem Solving</string>
+    <string name="q9">Helpfulness</string>
+    <string name="q10">Behaviour</string>
+
+    <!-- contains information about the teachers name -->
+    <string name="t1"> Hitesh Vakharia </string>
+    <string name="t2">Kekul Vakharia </string>
+    <string name="t3">Janki Barodia(French)</string>
+    <string name="t4">Kanika Maheshwari(French)</string>
+    <string name="t5">Priti Vora(Maths)</string>
+    <string name="t6">Sonal Jain (Maths)</string>
+    <string name="t7">Manoj Mishra (History)</string>
+    <string name="t8"> Juliet Sequeira (Social Science)</string>
+    <string name="t9">Vandana Nagar(English/History)</string>
+    <string name="t10">Aarti Ganatra(English/Social Sciences)</string>
+    <string name="t11">Tushar Bhatt(English Grammar)</string>
+    <string name="t12">Pravin Parab (Sanskrit/Marathi)</string>
+    <string name="t13">Shashi Singh(Hindi)</string>
+    <string name="t14">Sejal Bhave(Hindi/Marathi)</string>
+    <string name="t15">Shabina Sayyad(Science)</string>
+    <string name="t16">Ruddhi Salvi (Science)</string>
+    <string name="t17">Harshil Jariwala(Science)</string>
+</resources>
+
+
